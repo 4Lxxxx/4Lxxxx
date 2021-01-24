@@ -10,5 +10,5 @@
 
 #### 🌟 Languages in which I program:
 
-[![JavaScript Badge](https://img.shields.io/badge/-JavaScript-6633cc?style=flat-square&labelColor=ADFF2F&logo=javascript&logoColor=white&link=https://twitter.com/4lxxxxcyber)](https://twitter.com/4lxxxxcyber)
+[![JavaScript Badge](https://img.shields.io/badge/-JavaScript-ADFF2F?style=flat-square&labelColor=ADFF2F&logo=javascript&logoColor=white&link=https://twitter.com/4lxxxxcyber)](https://twitter.com/4lxxxxcyber)
 
