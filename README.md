@@ -21,4 +21,7 @@
 ## 🪐 Info:
 <img src="https://github-readme-stats.vercel.app/api?username=4lxxxx&&show_icons=true&title_color=6633cc&icon_color=bb2acf&text_color=ffffff&bg_color=151515">
 
+## 🎈 Linguagens Utilizadas:
+<img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=4lxxxx&layout=compact">
+
 
