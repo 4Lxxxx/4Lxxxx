@@ -10,10 +10,10 @@
 
 #### 🌟 Languages in which I program:
 
-・ [![JavaScript Badge](https://img.shields.io/badge/-JavaScript-ADFF2F?style=flat-square&labelColor=ADFF2F&logo=javascript&logoColor=white)
+・ [![JavaScript Badge](https://img.shields.io/badge/-JavaScript-ADFF2F?style=flat-square&labelColor=ADFF2F&logo=javascript&logoColor=white&link=https://www.javascript.com/)](https://www.javascript.com/)
 
-・ [![Lua Badge](https://img.shields.io/badge/-Lua-4B0082?style=flat-square&labelColor=4B0082&logo=lua&logoColor=white&link=https://twitter.com/4lxxxxcyber)](https://twitter.com/4lxxxxcyber)
+・ [![Lua Badge](https://img.shields.io/badge/-Lua-4B0082?style=flat-square&labelColor=4B0082&logo=lua&logoColor=white&link=https://www.lua.org/portugues.html)](https://www.lua.org/portugues.html)
 
 #### 🎓 Language I am studying:
 
-・ [![Python Badge](https://img.shields.io/badge/-python-ADFF2F?style=flat-square&labelColor=ADFF2F&logo=python&logoColor=white&link=https://twitter.com/4lxxxxcyber)](https://twitter.com/4lxxxxcyber)
+・ [![Python Badge](https://img.shields.io/badge/-python-ADFF2F?style=flat-square&labelColor=ADFF2F&logo=python&logoColor=white&link=https://www.python.org/)](https://www.python.org/)
