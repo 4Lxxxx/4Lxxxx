@@ -21,6 +21,4 @@
 ## 🪐 Info:
 <img src="https://github-readme-stats.vercel.app/api?username=4lxxxx&&show_icons=true&title_color=6633cc&icon_color=bb2acf&text_color=ffffff&bg_color=151515">
 
-## 🔊 Listening:
-[![Spotify](https://now-playing-codestackr.vercel.app/api/spotify-playing)](https://open.spotify.com/user/f9wazfhjyh7awoc9tgp2vp0xc)
 
