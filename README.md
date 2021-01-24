@@ -18,5 +18,4 @@
 
 ・ [![Python Badge](https://img.shields.io/badge/-python-ADFF2F?style=flat-square&labelColor=ADFF2F&logo=python&logoColor=white&link=https://www.python.org/)](https://www.python.org/)
 
-### 🔊 Escutando:
-[![Spotify](https://now-playing-codestackr.vercel.app/api/spotify-playing)](https://open.spotify.com/user/x9ti5be2z5apnf43emvigcr17)
+
