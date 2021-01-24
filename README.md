@@ -12,7 +12,7 @@
 
 ・ [![JavaScript Badge](https://img.shields.io/badge/-JavaScript-000000?style=flat-square&labelColor=000000&logo=javascript&logoColor=yellow&link=https://www.javascript.com/)](https://www.javascript.com/)
 
-・ [![Lua Badge](https://img.shields.io/badge/-Lua-4B0082?style=flat-square&labelColor=4B0082&logo=lua&logoColor=light-blue&link=https://www.lua.org/portugues.html)](https://www.lua.org/portugues.html)
+・ [![Lua Badge](https://img.shields.io/badge/-Lua-4B0082?style=flat-square&labelColor=4B0082&logo=lua&logoColor=blue&link=https://www.lua.org/portugues.html)](https://www.lua.org/portugues.html)
 
 #### 🎓 Language I am studying:
 
