@@ -14,3 +14,6 @@
 
 ・ [![Lua Badge](https://img.shields.io/badge/-Lua-4B0082?style=flat-square&labelColor=4B0082&logo=lua&logoColor=white&link=https://twitter.com/4lxxxxcyber)](https://twitter.com/4lxxxxcyber)
 
+#### 🎓 Language I am studying:
+
+・ [![C# Badge](https://img.shields.io/badge/-C#-7B68EE?style=flat-square&labelColor=7B68EE&logo=c#&logoColor=white&link=https://twitter.com/4lxxxxcyber)](https://twitter.com/4lxxxxcyber)
