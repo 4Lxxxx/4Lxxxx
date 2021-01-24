@@ -18,4 +18,6 @@
 
 ・ [![Python Badge](https://img.shields.io/badge/-python-ADFF2F?style=flat-square&labelColor=ADFF2F&logo=python&logoColor=white&link=https://www.python.org/)](https://www.python.org/)
 
+## ⭐ Status:
+<img src="https://github-readme-stats.vercel.app/api?username=4lxxxx&&show_icons=true&title_color=6633cc&icon_color=bb2acf&text_color=ffffff&bg_color=151515">
 
