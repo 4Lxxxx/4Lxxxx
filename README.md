@@ -10,7 +10,7 @@
 
 #### 🌟 Languages in which I program:
 
-・ [![JavaScript Badge](https://img.shields.io/badge/-JavaScript-ADFF2F?style=flat-square&labelColor=ADFF2F&logo=javascript&logoColor=white&link=https://twitter.com/4lxxxxcyber)](https://twitter.com/4lxxxxcyber)
+・ [![JavaScript Badge](https://img.shields.io/badge/-JavaScript-ADFF2F?style=flat-square&labelColor=ADFF2F&logo=javascript&logoColor=white)
 
 ・ [![Lua Badge](https://img.shields.io/badge/-Lua-4B0082?style=flat-square&labelColor=4B0082&logo=lua&logoColor=white&link=https://twitter.com/4lxxxxcyber)](https://twitter.com/4lxxxxcyber)
 
