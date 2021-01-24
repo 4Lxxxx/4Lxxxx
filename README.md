@@ -6,7 +6,7 @@
 
 #### 🌎 about me:
 
-・ My name is Pedro and I live in Brazil, I am a young programmer looking for more knowledge.
+・ My name is **Pedro** and I live in **Brazil**, I am a young programmer looking for more knowledge.
 
 #### 🌟 Languages in which I program:
 
@@ -16,4 +16,4 @@
 
 #### 🎓 Language I am studying:
 
-・ [![Python Badge](https://img.shields.io/badge/-python-7B68EE?style=flat-square&labelColor=7B68EE&logo=python&logoColor=white&link=https://twitter.com/4lxxxxcyber)](https://twitter.com/4lxxxxcyber)
+・ [![Python Badge](https://img.shields.io/badge/-python-ADFF2F?style=flat-square&labelColor=ADFF2F&logo=python&logoColor=white&link=https://twitter.com/4lxxxxcyber)](https://twitter.com/4lxxxxcyber)
