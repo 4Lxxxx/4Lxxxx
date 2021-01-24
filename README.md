@@ -4,11 +4,11 @@
 [![Gmail Badge](https://img.shields.io/badge/-4lxxxxcyber@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:4lxxxxcyber@gmail.com)](mailto:4lxxxxcyber@gmail.com)
 [![Youtube Badge](https://img.shields.io/badge/-4LxxxxCyber-6633cc?style=flat-square&labelColor=6633cc&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UC1udFUM6us-c0s076wcwG-g)](https://www.youtube.com/channel/UC1udFUM6us-c0s076wcwG-g)
 
-#### 🌎 about me:
+#### 🌎・about me:
 
 ・ My name is **Pedro** and I live in **Brazil**, I am a young programmer looking for more knowledge.
 
-#### 🌟 Languages in which I program:
+#### 🌟・Languages in which I program:
 
 ・ [![JavaScript Badge](https://img.shields.io/badge/-JavaScript-000000?style=flat-square&labelColor=000000&logo=javascript&logoColor=yellow&link=https://www.javascript.com/)](https://www.javascript.com/)
 
@@ -18,8 +18,10 @@
 
 ・ [![Python Badge](https://img.shields.io/badge/-python-ADFF2F?style=flat-square&labelColor=ADFF2F&logo=python&logoColor=blue&link=https://www.python.org/)](https://www.python.org/)
 
-## 🪐 Info:
+## 🪐・Info:
 <img src="https://github-readme-stats.vercel.app/api?username=4lxxxx&&show_icons=true&title_color=FF1493&icon_color=FF69B4&text_color=FFC0CB&bg_color=4B0082">
+
+## 🍄・旗帜
 
 ![Mine](https://github.com/4Lxxxx/4Lxxxx/blob/main/minecraftgif.gif)
 
