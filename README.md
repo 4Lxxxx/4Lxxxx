@@ -16,7 +16,7 @@
 
 #### 🎓 Language I am studying:
 
-・ [![Python Badge](https://img.shields.io/badge/-python-ADFF2F?style=flat-square&labelColor=C71585&logo=python&logoColor=blue&link=https://www.python.org/)](https://www.python.org/)
+・ [![Python Badge](https://img.shields.io/badge/-python-ADFF2F?style=flat-square&labelColor=ADFF2F&logo=python&logoColor=blue&link=https://www.python.org/)](https://www.python.org/)
 
 ## 🪐 Info:
 <img src="https://github-readme-stats.vercel.app/api?username=4lxxxx&&show_icons=true&title_color=FF1493&icon_color=FF69B4&text_color=FFC0CB&bg_color=4B0082">
