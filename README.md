@@ -16,4 +16,4 @@
 
 #### 🎓 Language I am studying:
 
-・ [![C# Badge](https://img.shields.io/badge/-C#-7B68EE?style=flat-square&labelColor=7B68EE&logo=c#&logoColor=white&link=https://twitter.com/4lxxxxcyber)](https://twitter.com/4lxxxxcyber)
+・ [![CSharp Badge](https://img.shields.io/badge/-Csharp-7B68EE?style=flat-square&labelColor=7B68EE&logo=csharp&logoColor=white&link=https://twitter.com/4lxxxxcyber)](https://twitter.com/4lxxxxcyber)
