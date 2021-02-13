@@ -8,13 +8,18 @@
 
 ・ My name is **Pedro** and I live in **Brazil**, I am a young programmer looking for more knowledge.
 
-#### 🌟・Languages in which I program:
+#### 🌟・Languages and tools:
 
 ・ [![forthebadge](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://pt.wikipedia.org/wiki/JavaScript)
 
 ・ [![forthebadge](https://img.shields.io/badge/lua%20-%2314354C.svg?&style=for-the-badge&logo=lua&logoColor=white)](https://www.lua.org/)
 
 ・ [![forthebadge](https://img.shields.io/badge/python%20-ADFF2F.svg?&style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+
+・ [![forthebadge](https://img.shields.io/badge/nodejs%20-006400.svg?&style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/en/)
+
+・ [![forthebadge](https://img.shields.io/badge/bootstrap%20-4B0082.svg?&style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
+
 
 #### 🎓 Language I am studying:
 
