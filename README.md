@@ -10,13 +10,15 @@
 
 #### 🌟・Languages in which I program:
 
-・ [![JavaScript Badge](https://img.shields.io/badge/-JavaScript-000000?style=flat-square&labelColor=000000&logo=javascript&logoColor=yellow&link=https://www.javascript.com/)](https://www.javascript.com/)
+・ [![forthebadge](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://pt.wikipedia.org/wiki/JavaScript)
 
-・ [![Lua Badge](https://img.shields.io/badge/-Lua-4B0082?style=flat-square&labelColor=4B0082&logo=lua&logoColor=blue&link=https://www.lua.org/portugues.html)](https://www.lua.org/portugues.html)
+・ [![forthebadge](https://img.shields.io/badge/lua%20-%2314354C.svg?&style=for-the-badge&logo=lua&logoColor=white)](https://www.lua.org/)
+
+・ [![forthebadge](https://img.shields.io/badge/python%20-ADFF2F.svg?&style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 
 #### 🎓 Language I am studying:
 
-・ [![Python Badge](https://img.shields.io/badge/-python-ADFF2F?style=flat-square&labelColor=ADFF2F&logo=python&logoColor=blue&link=https://www.python.org/)](https://www.python.org/)
+・ [![forthebadge](https://img.shields.io/badge/php%20-000080.svg?&style=for-the-badge&logo=php&logoColor=white)](https://www.php.org/)
 
 ## 🪐・Info:
 <img src="https://github-readme-stats.vercel.app/api?username=4lxxxx&&show_icons=true&title_color=FF1493&icon_color=FF69B4&text_color=FFC0CB&bg_color=4B0082">
