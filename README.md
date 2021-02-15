@@ -23,7 +23,7 @@
 
 #### 🎓 Language I am studying:
 
-・ [![forthebadge](https://img.shields.io/badge/php%20-000080.svg?&style=for-the-badge&logo=php&logoColor=white)](https://www.php.org/)
+・ [![forthebadge](https://img.shields.io/badge/c%20-1f2dc2.svg?&style=for-the-badge&logo=c&logoColor=white)](https://www.php.org/)
 
 ## 🪐・Info:
 <img src="https://github-readme-stats.vercel.app/api?username=4lxxxx&&show_icons=true&title_color=FF1493&icon_color=FF69B4&text_color=FFC0CB&bg_color=4B0082">
