@@ -10,8 +10,6 @@
 
 #### 🌟・Languages and tools:
 
-・ [![forthebadge](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://pt.wikipedia.org/wiki/JavaScript)
-
 ・ <img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white" height="25"/>
 
 ・ [![forthebadge](https://img.shields.io/badge/lua%20-%2314354C.svg?&style=for-the-badge&logo=lua&logoColor=white)](https://www.lua.org/)
